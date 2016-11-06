@@ -62,13 +62,13 @@ header {
       display: block;
       margin-top: 10px; } }
 
-main {
+.main {
   border-top: 10px solid #007DCD;
   padding: 20px;
   background: url("../images/bg.png");
   background-size: contain; }
   @media screen and (max-width: 425px) {
-    main {
+    .main {
       padding: 20px 0;
       background: inherit; } }
 
